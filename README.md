@@ -22,7 +22,7 @@ ChatGPT
 
 1. Create a new ChatGPT Project.
 2. Open the project's instructions.
-3. Copy the contents of ""skill/SKILL.md"" (skill/SKILL.md).
+3. Copy the contents of [skill/SKILL.md](skill/SKILL.md).
 4. Paste them into the project instructions and save.
 5. Start chatting inside that project.
 
