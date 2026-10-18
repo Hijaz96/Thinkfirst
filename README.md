@@ -18,7 +18,7 @@ AI should help us become more capable, not more dependent.
 
 ## 🚀 Installation
 
-ChatGPT
+# ChatGPT
 
 1. Create a new ChatGPT Project.
 2. Open the project's instructions.
@@ -35,6 +35,16 @@ Other AI Assistants
 Copy "skill/SKILL.md" into the supported custom-instruction or skill configuration of your AI assistant.
 
 Compatibility and activation scope depend on the platform.
+
+# Claude (Custom Skill)
+
+1. Download "THINKFIRST-Claude-Skill-v0.3.1-beta.zip" from the "GitHub Releases" (https://github.com/Hijaz96/Thinkfirst/releases/tag/v0.3.1-beta) page.
+2. Open "Claude" (https://claude.ai) and go to Customize → Skills.
+3. Upload the ZIP file without extracting it.
+4. Enable the thinkfirst skill.
+5. Start a conversation and ask Claude to help you understand a concept, investigate a problem, or evaluate a claim.
+
+THINKFIRST is optional. You can disable the skill whenever you want.
 
 ## 💬 Example
 
