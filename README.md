@@ -65,13 +65,13 @@ Make independent thinking, critical reasoning, and meaningful learning accessibl
 
 THINKFIRST is a community experiment. Its educational effectiveness has not yet been established through controlled research.
 
-🤝 Contribute
+## 🤝 Contribute
 
 Found a problem or have an improvement?
 
 Open a GitHub Issue, share anonymized feedback, or contribute improvements to the skill.
 
-📄 License
+## 📄 License
 
 MIT License — free to use, modify, and share.
 
