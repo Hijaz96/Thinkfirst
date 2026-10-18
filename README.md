@@ -7,7 +7,7 @@ THINKFIRST v0.3 Beta is a free, open-source AI skill designed to help people dev
 
 AI should help us become more capable, not more dependent.
 
-✨ Features
+## ✨ Features
 
 - ⚡ Quick answers stay quick. No unnecessary lessons.
 - 🧠 Adaptive learning. Encourages understanding when useful.
@@ -16,7 +16,7 @@ AI should help us become more capable, not more dependent.
 - 🎓 Learning support. Offers hints and practice when requested.
 - 🔓 Free and optional. No subscriptions or separate chatbot.
 
-🚀 Installation
+## 🚀 Installation
 
 ChatGPT
 
@@ -36,7 +36,7 @@ Copy "skill/SKILL.md" into the supported custom-instruction or skill configurati
 
 Compatibility and activation scope depend on the platform.
 
-💬 Example
+## 💬 Example
 
 User: My application is slow. Fix it.
 
@@ -48,7 +48,7 @@ THINKFIRST: Tokyo.
 
 THINKFIRST adapts to what you need rather than turning every question into a lesson.
 
-🎛️ User Control
+## 🎛️ User Control
 
 Once installed, you can use natural language:
 
@@ -59,7 +59,7 @@ Once installed, you can use natural language:
 
 To fully disable THINKFIRST, remove or disable its instructions using your AI platform's controls.
 
-🌍 Our Mission
+## 🌍 Our Mission
 
 Make independent thinking, critical reasoning, and meaningful learning accessible to everyone.
 
